@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0347-top-k-frequent-elements) |
+| [0355-design-twitter](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0355-design-twitter) |
 ## Sliding Window
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0347-top-k-frequent-elements) |
+| [0355-design-twitter](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0355-design-twitter) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -88,4 +90,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0054-spiral-matrix) |
+## Linked List
+|  |
+| ------- |
+| [0355-design-twitter](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0355-design-twitter) |
+## Design
+|  |
+| ------- |
+| [0355-design-twitter](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0355-design-twitter) |
 <!---LeetCode Topics End-->
