@@ -5,7 +5,7 @@ public:
         vector<vector<int>> ans;
         int n = nums.size() - 1;
         for (int i = 0; i < nums.size() - 2; i++) {
-            solveTwoSum(i, n, nums, ans);\
+            solveTwoSum(i, n, nums, ans);
             // to avoid duplicate 
             while (i + 1 < n and nums[i] == nums[i + 1])
                 i++;
