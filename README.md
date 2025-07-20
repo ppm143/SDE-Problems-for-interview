@@ -98,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0355-design-twitter](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0355-design-twitter) |
+## String
+|  |
+| ------- |
+| [3396-valid-word](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/3396-valid-word) |
 <!---LeetCode Topics End-->
