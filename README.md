@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0110-balanced-binary-tree) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0101-symmetric-tree) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0199-binary-tree-right-side-view) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0101-symmetric-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0101-symmetric-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
