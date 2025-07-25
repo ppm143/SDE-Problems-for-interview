@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Union Find
 |  |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Binary Search Tree
 |  |
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## String Matching
 |  |
