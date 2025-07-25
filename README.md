@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0883-car-fleet) |
 | [1014-k-closest-points-to-origin](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/1014-k-closest-points-to-origin) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0567-permutation-in-string) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Sliding Window
 |  |
 | ------- |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0011-container-with-most-water) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Sorting
 |  |
 | ------- |
