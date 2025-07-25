@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0015-3sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0054-spiral-matrix) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0033-search-in-rotated-sorted-array) |
 | [0098-validate-binary-search-tree](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0222-count-complete-tree-nodes) |
