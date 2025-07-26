@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/1036-rotting-oranges) |
 | [1395-minimum-time-visiting-all-points](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/1395-minimum-time-visiting-all-points) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Hash Table
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0567-permutation-in-string) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Sliding Window
 |  |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0347-top-k-frequent-elements) |
 | [0883-car-fleet](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0883-car-fleet) |
 | [1014-k-closest-points-to-origin](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/1014-k-closest-points-to-origin) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -361,4 +364,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0238-product-of-array-except-self) |
+## Counting Sort
+|  |
+| ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
