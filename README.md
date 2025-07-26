@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0033-search-in-rotated-sorted-array) |
+| [0036-valid-sudoku](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0074-search-a-2d-matrix) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0036-valid-sudoku) |
 | [0076-minimum-window-substring](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0128-longest-consecutive-sequence) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0200-number-of-islands) |
