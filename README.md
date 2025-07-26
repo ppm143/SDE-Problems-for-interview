@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0907-koko-eating-bananas) |
 | [1014-k-closest-points-to-origin](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/1036-rotting-oranges) |
+| [1395-minimum-time-visiting-all-points](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/1395-minimum-time-visiting-all-points) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Hash Table
 |  |
@@ -245,10 +246,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1014-k-closest-points-to-origin](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/1014-k-closest-points-to-origin) |
+| [1395-minimum-time-visiting-all-points](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/1395-minimum-time-visiting-all-points) |
 ## Geometry
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/1014-k-closest-points-to-origin) |
+| [1395-minimum-time-visiting-all-points](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/1395-minimum-time-visiting-all-points) |
 ## Tree
 |  |
 | ------- |
