@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0219-contains-duplicate-ii) |
+| [0238-product-of-array-except-self](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0347-top-k-frequent-elements) |
 | [0695-max-area-of-island](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0695-max-area-of-island) |
@@ -350,4 +351,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0875-longest-mountain-in-array](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0875-longest-mountain-in-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
