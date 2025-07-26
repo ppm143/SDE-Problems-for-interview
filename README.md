@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/1127-last-stone-weight) |
 | [1395-minimum-time-visiting-all-points](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/1395-minimum-time-visiting-all-points) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Hash Table
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0567-permutation-in-string](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0567-permutation-in-string) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Sliding Window
 |  |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0355-design-twitter](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0355-design-twitter) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## String
 |  |
 | ------- |
