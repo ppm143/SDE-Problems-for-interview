@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0572-subtree-of-another-tree) |
 | [0623-add-one-row-to-tree](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0684-redundant-connection](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0695-max-area-of-island) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0417-pacific-atlantic-water-flow) |
 | [0623-add-one-row-to-tree](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0684-redundant-connection](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0695-max-area-of-island) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [1036-rotting-oranges](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/1036-rotting-oranges) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0200-number-of-islands) |
+| [0684-redundant-connection](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0695-max-area-of-island) |
 ## Matrix
 |  |
@@ -391,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0210-course-schedule-ii) |
+| [0684-redundant-connection](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0684-redundant-connection) |
 ## Enumeration
 |  |
 | ------- |
