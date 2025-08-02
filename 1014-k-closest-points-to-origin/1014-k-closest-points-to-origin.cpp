@@ -1,5 +1,5 @@
 class Solution {
-    struct compare {
+    struct compareByDistance {
         bool operator()(vector<int>& p, vector<int>& q) {
             return p[0] * p[0] + p[1] * p[1] < q[0] * q[0] + q[1] * q[1];
         }
@@ -7,7 +7,8 @@ class Solution {
 
 public:
     vector<vector<int>> kClosest(vector<vector<int>>& points, int k) {
-        priority_queue<vector<int>, vector<vector<int>>, compare> minQ;
+        priority_queue<vector<int>, vector<vector<int>>, compareByDistance>
+            minQ;
         for (vector<int>& point : points) {
             minQ.push(point);
             if (minQ.size() > k) {
