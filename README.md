@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0130-surrounded-regions) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0042-trapping-rain-water) |
+| [0118-pascals-triangle](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0875-longest-mountain-in-array](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0875-longest-mountain-in-array) |
 ## Stack
