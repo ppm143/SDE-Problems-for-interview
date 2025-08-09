@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0219-contains-duplicate-ii) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0212-word-search-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/1036-rotting-oranges) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0131-palindrome-partitioning) |
 | [0208-implement-trie-prefix-tree](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0424-longest-repeating-character-replacement) |
@@ -451,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0131-palindrome-partitioning) |
+| [0212-word-search-ii](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0212-word-search-ii) |
 ## Graph
 |  |
 | ------- |
@@ -488,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0212-word-search-ii) |
 ## Recursion
 |  |
 | ------- |
