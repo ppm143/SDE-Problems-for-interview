@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0202-happy-number) |
 | [0295-find-median-from-data-stream](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0295-find-median-from-data-stream) |
 | [0567-permutation-in-string](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0647-palindromic-substrings) |
 | [0875-longest-mountain-in-array](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0875-longest-mountain-in-array) |
 ## Dynamic Programming
 |  |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0213-house-robber-ii) |
 | [0338-counting-bits](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0338-counting-bits) |
+| [0647-palindromic-substrings](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0747-min-cost-climbing-stairs) |
 | [0875-longest-mountain-in-array](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0875-longest-mountain-in-array) |
 ## Stack
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0647-palindromic-substrings) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/1818-maximum-score-from-removing-substrings) |
 | [3396-valid-word](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/3396-valid-word) |
 ## Data Stream
