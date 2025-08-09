@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0101-symmetric-tree) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0417-pacific-atlantic-water-flow) |
@@ -292,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -429,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0090-subsets-ii) |
 ## Graph
 |  |
