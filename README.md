@@ -326,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0268-missing-number) |
 | [1014-k-closest-points-to-origin](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/1014-k-closest-points-to-origin) |
 | [1395-minimum-time-visiting-all-points](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/1395-minimum-time-visiting-all-points) |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0090-subsets-ii) |
 | [0190-reverse-bits](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0338-counting-bits) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -486,4 +488,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0211-design-add-and-search-words-data-structure) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
