@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0133-clone-graph) |
 | [0202-happy-number](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0202-happy-number) |
+| [0208-implement-trie-prefix-tree](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0208-implement-trie-prefix-tree) |
 | [0219-contains-duplicate-ii](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0268-missing-number) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0155-min-stack) |
+| [0208-implement-trie-prefix-tree](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0295-find-median-from-data-stream](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0131-palindrome-partitioning) |
+| [0208-implement-trie-prefix-tree](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0242-valid-anagram](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -481,5 +484,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0211-design-add-and-search-words-data-structure) |
 <!---LeetCode Topics End-->
