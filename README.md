@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0268-missing-number) |
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0078-subsets) |
 ## Graph
 |  |
 | ------- |
