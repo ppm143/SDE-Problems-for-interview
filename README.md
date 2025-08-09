@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0213-house-robber-ii) |
+| [0338-counting-bits](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0338-counting-bits) |
 | [0747-min-cost-climbing-stairs](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0747-min-cost-climbing-stairs) |
 | [0875-longest-mountain-in-array](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0875-longest-mountain-in-array) |
 ## Stack
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0338-counting-bits) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Queue
 |  |
