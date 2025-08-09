@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0875-longest-mountain-in-array](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0875-longest-mountain-in-array) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0202-happy-number) |
 | [1014-k-closest-points-to-origin](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/1014-k-closest-points-to-origin) |
@@ -425,4 +427,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0210-course-schedule-ii) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
