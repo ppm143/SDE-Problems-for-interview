@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0417-pacific-atlantic-water-flow) |
+| [0435-non-overlapping-intervals](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0621-task-scheduler](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0621-task-scheduler) |
 | [0695-max-area-of-island](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0695-max-area-of-island) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0435-non-overlapping-intervals) |
 | [0647-palindromic-substrings](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0678-valid-parenthesis-string) |
 | [0747-min-cost-climbing-stairs](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0747-min-cost-climbing-stairs) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0678-valid-parenthesis-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0621-task-scheduler) |
 | [0883-car-fleet](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0883-car-fleet) |
 | [1014-k-closest-points-to-origin](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/1014-k-closest-points-to-origin) |
