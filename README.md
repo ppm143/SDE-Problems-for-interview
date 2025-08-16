@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0417-pacific-atlantic-water-flow) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0338-counting-bits) |
 | [0647-palindromic-substrings](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0647-palindromic-substrings) |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0268-missing-number](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0300-longest-increasing-subsequence) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0907-koko-eating-bananas](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0907-koko-eating-bananas) |
 ## Binary Tree
