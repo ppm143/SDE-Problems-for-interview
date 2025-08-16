@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0074-search-a-2d-matrix) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0268-missing-number) |
