@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0118-pascals-triangle) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0002-add-two-numbers) |
+| [0062-unique-paths](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -557,4 +559,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0231-power-of-two) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
