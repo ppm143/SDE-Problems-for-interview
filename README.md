@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0416-partition-equal-subset-sum) |
 | [0647-palindromic-substrings](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0678-valid-parenthesis-string) |
 | [0747-min-cost-climbing-stairs](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0747-min-cost-climbing-stairs) |
 | [0875-longest-mountain-in-array](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0875-longest-mountain-in-array) |
 ## Stack
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0155-min-stack) |
+| [0678-valid-parenthesis-string](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0883-car-fleet) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0055-jump-game) |
 | [0621-task-scheduler](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0621-task-scheduler) |
+| [0678-valid-parenthesis-string](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0678-valid-parenthesis-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2689-rearranging-fruits](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/2689-rearranging-fruits) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -342,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0678-valid-parenthesis-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/1818-maximum-score-from-removing-substrings) |
 | [3396-valid-word](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/3396-valid-word) |
 ## Data Stream
