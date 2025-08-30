@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0208-implement-trie-prefix-tree) |
 | [0219-contains-duplicate-ii](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0219-contains-duplicate-ii) |
@@ -356,11 +357,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0141-linked-list-cycle](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0206-reverse-linked-list) |
 | [0355-design-twitter](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0355-design-twitter) |
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -597,4 +600,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0062-unique-paths) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
