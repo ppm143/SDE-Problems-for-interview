@@ -13,15 +13,19 @@
 class Solution {
 public:
     int diameterOfBinaryTree(TreeNode* root) {
-        auto [H, dia] = solve(root);
-        return max(H, dia) - 1;
+        if (!root)
+            return 0;
+        auto [maxH, maxDia] = findDiameter(root);
+        return maxDia;
     }
-    pair<int, int> solve(TreeNode* root) {
-        if (root == nullptr)
-            return {0, 0};
-        auto [lH, lDia] = solve(root->left);
-        auto [rH, rDia] = solve(root->right);
 
-        return {max(lH, rH) + 1, max({lDia, rDia, lH + rH + 1})};
+    pair<int, int> findDiameter(TreeNode* root) {
+        if (!root)
+            return {0, 0};
+
+        auto [lH, lDia] = findDiameter(root->left);
+        auto [rH, rDia] = findDiameter(root->right);
+
+        return {max(lH, rH) + 1, max({lDia, rDia, lH + rH})};
     }
 };
