@@ -12,24 +12,24 @@
  */
 class Solution {
 public:
+    int ps = 0;
     TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {
-        int ie = inorder.size() - 1;
+        int n = inorder.size() - 1;
         unordered_map<int, int> inorderMap;
-        for (int i = 0; i <= ie; i++)
+        for (int i = 0; i <= n; i++)
             inorderMap[inorder[i]] = i;
-        return solve(preorder, inorderMap, 0, ie, 0);
+        return solve(preorder, inorderMap, 0, n);
     }
 
     TreeNode* solve(vector<int>& preorder, unordered_map<int, int>& inorderMap,
-                    int is, int ie, int ps) {
-        if (is > ie or ps > preorder.size())
+                    int l, int r) {
+        if (l > r)
             return nullptr;
-        int node = preorder[ps];
+        int node = preorder[ps++];
         TreeNode* root = new TreeNode(node);
-        int idx = inorderMap[node];
-        int left = idx - is;
-        root->left = solve(preorder, inorderMap, is, idx - 1, ps + 1);
-        root->right = solve(preorder, inorderMap, idx + 1, ie, ps + left + 1);
+        int m = inorderMap[node];
+        root->left = solve(preorder, inorderMap, l, m - 1);
+        root->right = solve(preorder, inorderMap, m + 1, r);
         return root;
     }
 };
