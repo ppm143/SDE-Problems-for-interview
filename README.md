@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0190-reverse-bits](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0190-reverse-bits) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0295-find-median-from-data-stream) |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0023-merge-k-sorted-lists) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0141-linked-list-cycle) |
@@ -621,4 +624,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0146-lru-cache) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
