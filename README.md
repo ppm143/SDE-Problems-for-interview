@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0747-min-cost-climbing-stairs) |
 | [0875-longest-mountain-in-array](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0875-longest-mountain-in-array) |
+| [0876-hand-of-straights](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0876-hand-of-straights) |
 | [0883-car-fleet](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0940-fruit-into-baskets) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0567-permutation-in-string](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0621-task-scheduler) |
+| [0876-hand-of-straights](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0876-hand-of-straights) |
 | [0940-fruit-into-baskets](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0940-fruit-into-baskets) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0678-valid-parenthesis-string) |
+| [0876-hand-of-straights](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0876-hand-of-straights) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2689-rearranging-fruits](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/2689-rearranging-fruits) |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0621-task-scheduler) |
+| [0876-hand-of-straights](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0876-hand-of-straights) |
 | [0883-car-fleet](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0883-car-fleet) |
 | [1014-k-closest-points-to-origin](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/1014-k-closest-points-to-origin) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
