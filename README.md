@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0494-target-sum](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0494-target-sum) |
+| [0498-diagonal-traverse](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0498-diagonal-traverse) |
 | [0518-coin-change-ii](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0518-coin-change-ii) |
 | [0621-task-scheduler](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0621-task-scheduler) |
 | [0695-max-area-of-island](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0695-max-area-of-island) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0212-word-search-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0417-pacific-atlantic-water-flow) |
+| [0498-diagonal-traverse](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0498-diagonal-traverse) |
 | [0695-max-area-of-island](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/1036-rotting-oranges) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0054-spiral-matrix) |
+| [0498-diagonal-traverse](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0498-diagonal-traverse) |
 ## Linked List
 |  |
 | ------- |
