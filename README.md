@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1395-minimum-time-visiting-all-points](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/1395-minimum-time-visiting-all-points) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2026-merge-triplets-to-form-target-triplet](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2689-rearranging-fruits](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/2689-rearranging-fruits) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0678-valid-parenthesis-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2026-merge-triplets-to-form-target-triplet](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2689-rearranging-fruits](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/2689-rearranging-fruits) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Sorting
