@@ -38,8 +38,8 @@ public:
         int numberOfCourses = N;
         for (auto& x : P) {
             int u = x[0], v = x[1];
-            adj[v].push_back(u);
-            indegree[u]++;
+            adj[u].push_back(v);
+            indegree[v]++;
         }
         queue<int> Q;
         for (int i = 0; i < N; i++) {
