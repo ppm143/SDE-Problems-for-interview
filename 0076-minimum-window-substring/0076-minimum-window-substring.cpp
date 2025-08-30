@@ -1,8 +1,8 @@
 class Solution {
-    bool isValidWindow(unordered_map<char, int>& mp1,
-                       unordered_map<char, int>& mp2) {
-        for (auto& [ch, freq] : mp1) {
-            if (freq > mp2[ch])
+    bool isValidWindow(unordered_map<char, int>& mpT,
+                       unordered_map<char, int>& mpS) {
+        for (auto& [ch, freq] : mpT) {
+            if (freq > mpS[ch])
                 return false;
         }
         return true;
@@ -14,18 +14,19 @@ public:
         string ans = "";
         if (ts > ss)
             return ans;
-        unordered_map<char, int> mpt, mps;
+        unordered_map<char, int> mpT, mpS;
         int window = INT_MAX, start = 0;
         for (int i = 0; i < ts; i++)
-            mpt[t[i]]++;
+            mpT[t[i]]++;
         for (int R = 0; R < ss; R++) {
-            mps[s[R]]++;
-            while (isValidWindow(mpt, mps)) {
-                if (window > (R - L + 1)) {
-                    window = R - L + 1;
+            mpS[s[R]]++;
+            while (isValidWindow(mpT, mpS)) {
+                int currentWindow = R - L + 1;
+                if (window > currentWindow) {
+                    window = currentWindow;
                     start = L;
                 }
-                mps[s[L]]--, L++;
+                mpS[s[L++]]--;
             }
         }
         if (window == INT_MAX)
