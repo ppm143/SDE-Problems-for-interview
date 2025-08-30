@@ -12,47 +12,47 @@ public:
     // Encodes a tree to a single string.
     string serialize(TreeNode* root) {
         string ans;
-        solve(root, ans);
+        buildString(root, ans);
         return ans;
     }
 
-    void solve(TreeNode* root, string& ans) {
+    void buildString(TreeNode* root, string& ans) {
         if (root == nullptr) {
             ans += "null,";
             return;
         }
-        ans += to_string(root->val);
-        ans += ",";
-
-        solve(root->left, ans);
-        solve(root->right, ans);
+        ans += to_string(root->val) + ",";
+        buildString(root->left, ans);
+        buildString(root->right, ans);
     }
 
     // Decodes your encoded data to tree.
     TreeNode* deserialize(string data) {
         queue<string> trees;
-        string s;
-        stringstream in(data);
-        while (getline(in, s, ','))
-            trees.push(s);
-        return solve(trees);
+        string s = "";
+        for (char& ch : data) {
+            if (ch == ',') {
+                trees.push(s);
+                s = "";
+            } else
+                s += ch;
+        }
+        return buildTree(trees);
     }
 
-    TreeNode* solve(queue<string>& trees) {
+    TreeNode* buildTree(queue<string>& trees) {
         if (trees.empty()) {
             return nullptr;
         }
 
-        if (trees.front() == "null") {
-            trees.pop();
+        string s = trees.front();
+        trees.pop();
+        if (s == "null") {
             return nullptr;
         }
-
-        TreeNode* root = new TreeNode(stoi(trees.front()));
-        trees.pop();
-        root->left = solve(trees);
-        root->right = solve(trees);
-
+        TreeNode* root = new TreeNode(stoi(s));
+        root->left = buildTree(trees);
+        root->right = buildTree(trees);
         return root;
     }
 };
