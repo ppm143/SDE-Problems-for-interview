@@ -7,10 +7,10 @@ class Solution {
         if (!freshOranges)
             return 0;
         int n = grid.size(), m = grid[0].size();
-        int time = -1;
+        int time = 0;
         vector<int> dir = {-1, 0, 1, 0, -1};
 
-        while (!Q.empty()) {
+        while (!Q.empty() and freshOranges > 0) {
             int qSize = Q.size();
             for (int q = 0; q < qSize; q++) {
                 auto [x, y] = Q.front();
