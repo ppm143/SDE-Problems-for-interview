@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1395-minimum-time-visiting-all-points](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/1395-minimum-time-visiting-all-points) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2689-rearranging-fruits](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/2689-rearranging-fruits) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0268-missing-number) |
 | [1014-k-closest-points-to-origin](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/1014-k-closest-points-to-origin) |
 | [1395-minimum-time-visiting-all-points](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/1395-minimum-time-visiting-all-points) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Geometry
 |  |
 | ------- |
