@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0876-hand-of-straights) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0940-fruit-into-baskets](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0940-fruit-into-baskets) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0695-max-area-of-island) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0774-maximum-depth-of-n-ary-tree) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0695-max-area-of-island) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0774-maximum-depth-of-n-ary-tree) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1036-rotting-oranges](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/1036-rotting-oranges) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -460,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -506,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0623-add-one-row-to-tree](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/2493-reverse-odd-levels-of-binary-tree) |
