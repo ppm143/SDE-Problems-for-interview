@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0417-pacific-atlantic-water-flow) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0338-counting-bits](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0435-non-overlapping-intervals) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0417-pacific-atlantic-water-flow) |
 | [0543-diameter-of-binary-tree](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0572-subtree-of-another-tree) |
@@ -296,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0417-pacific-atlantic-water-flow) |
 | [0623-add-one-row-to-tree](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -324,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0212-word-search-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/1036-rotting-oranges) |
@@ -530,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0684-redundant-connection](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0684-redundant-connection) |
 ## Enumeration
 |  |
@@ -552,11 +558,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0139-word-break) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Trie
 |  |
 | ------- |
