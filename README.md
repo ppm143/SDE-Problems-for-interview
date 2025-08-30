@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1395-minimum-time-visiting-all-points](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/1395-minimum-time-visiting-all-points) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1628-count-submatrices-with-all-ones](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/1628-count-submatrices-with-all-ones) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-longest-mountain-in-array](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0875-longest-mountain-in-array) |
 | [1250-longest-common-subsequence](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/1250-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1628-count-submatrices-with-all-ones](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/1628-count-submatrices-with-all-ones) |
 ## Stack
 |  |
 | ------- |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0883-car-fleet) |
+| [1628-count-submatrices-with-all-ones](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/1628-count-submatrices-with-all-ones) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Monotonic Stack
 |  |
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0883-car-fleet) |
+| [1628-count-submatrices-with-all-ones](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/1628-count-submatrices-with-all-ones) |
 ## Greedy
 |  |
 | ------- |
@@ -344,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/1036-rotting-oranges) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1628-count-submatrices-with-all-ones](https://github.com/ppm143/SDE-Problems-for-interview/tree/master/1628-count-submatrices-with-all-ones) |
 ## Simulation
 |  |
 | ------- |
